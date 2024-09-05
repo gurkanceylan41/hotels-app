@@ -1,4 +1,4 @@
-# Tripster
+# Hotels App
 
 Tripster is a simple web application that allows users to search for accommodations and make reservations. 
 
